@@ -37,7 +37,7 @@ or that are part of it but in a different form.
 |ft_memcpy      |ft_putstr_fd        |Outputs the string ’s’ to the given file descriptor.|
 |ft_memmove     |ft_putendl_fd       |Outputs the string ’s’ to the given file descriptor followed by a newline.|
 |ft_strlcpy     |ft_putnbr_fd        |Outputs the integer ’n’ to the given filedescriptor.|
-|ft_strlcat     |ft_isnumber         |Tests if the string contains only decimal digit character|
+|ft_strlcat     |ft_isnumber         |Tests if the string contains only decimal digit character.|
 |ft_toupper     |
 |ft_tolower     |
 |ft_strchr      |
