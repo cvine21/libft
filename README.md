@@ -78,5 +78,5 @@ make all
 make bonus
 ```
 
-[1]:https://21-school.ru/
+[1]:https://clck.ru/YBUJq
 [2]:https://42.fr/en/homepage/
