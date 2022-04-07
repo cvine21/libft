@@ -58,7 +58,7 @@ Bonus functions:
 ## How to run project
 
 1. Clone this repo and go to the cloned directoty called `libft`
-```
+``` sh
 git clone https://github.com/cvine21/libft.git
 cd libft/
 ```
@@ -66,15 +66,15 @@ cd libft/
 2. Run Makefile so you can build the library
 
 - To run mandatory part:
-```
+``` sh
 make
 ```
 or
-```
+``` sh
 make all
 ```
 - To run bonus part:
-```
+``` sh
 make bonus
 ```
 
