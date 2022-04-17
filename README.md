@@ -6,12 +6,12 @@
 </div>
 
 ### Table of contents
-- [About libft](#what-is-libft)
+- [About libft](#about-libft)
 - [Mandatory part](#mandatory-part)
 - [Bonus part](#bonus-part)
 - [How to run project](#how-to-run-project)
 
-## What is libft?
+## About libft
 This is a project of [school 21][1] [(école 42)][2].
 
 The goal of the project is to create a library `libft.a` consisting of functions from the redone libc functions. These functions have the same prototypes and implement the same behaviors as the originals. They comply with the way they are defined in their `man`. The only difference is their names. They begin with the ’ft_’ prefix. For instance, `strlen` becomes `ft_strlen`.
