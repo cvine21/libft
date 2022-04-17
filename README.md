@@ -6,7 +6,7 @@
 </div>
 
 ### Table of contents
-- [About libft?](#what-is-libft)
+- [About libft](#what-is-libft)
 - [Mandatory part](#mandatory-part)
 - [Bonus part](#bonus-part)
 - [How to run project](#how-to-run-project)
