@@ -69,10 +69,6 @@ cd libft/
 ``` sh
 make
 ```
-or
-``` sh
-make all
-```
 - To run bonus part:
 ``` sh
 make bonus
