@@ -59,19 +59,18 @@ Bonus functions:
 
 1. Clone this repo and go to the cloned directoty called `libft`
 ``` sh
-git clone https://github.com/cvine21/libft.git
-cd libft/
+$> git clone https://github.com/cvine21/libft.git
+$> cd libft/
 ```
-
 2. Run Makefile so you can build the library
 
 - To run mandatory part:
 ``` sh
-make
+$> make
 ```
 - To run bonus part:
 ``` sh
-make bonus
+$> make bonus
 ```
 
 [1]:https://clck.ru/YBUJq
